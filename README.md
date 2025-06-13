@@ -7,7 +7,7 @@
 ## Technalogies used
  - HTML
  - CSS
-     -Tailwhen css
+  -Tailwhen css
  - JavaScript
 1. node JS
 2. mongo DB
