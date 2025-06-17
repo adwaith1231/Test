@@ -20,3 +20,14 @@
 >quote
 <ins>Underline</ins>
 ~~line-through~~
+
+
+<table>
+<thead>
+<tr>
+<th>head1</th>
+<th>head2</th>
+<th>head3</th>
+</tr>
+</thead>
+</table>
