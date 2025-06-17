@@ -18,3 +18,5 @@
 **Bold**
 *italics*
 >quote
+<ins>Underline</ins>
+~~line-through~~
